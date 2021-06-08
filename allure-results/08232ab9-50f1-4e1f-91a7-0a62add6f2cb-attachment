@@ -1,0 +1,37 @@
+[2021-06-08T12:03:04+0200] [SEVERE] https://phptravels.net/home 17:47 Uncaught TypeError: Cannot read property 'remove' of null
+[2021-06-08T12:03:05+0200] [INFO] https://phptravels.net/home - Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://phptravels.net/themes/default/assets/fonts/muli/Muli-Regular.woff
+[2021-06-08T12:03:05+0200] [INFO] https://phptravels.net/home - Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://phptravels.net/themes/default/assets/font-icons/font-awesome/webfonts/fa-solid-900.woff2
+[2021-06-08T12:03:05+0200] [INFO] https://phptravels.net/home - Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://phptravels.net/themes/default/assets/font-icons/boxicons/fonts/boxicons.woff2
+[2021-06-08T12:03:05+0200] [INFO] https://phptravels.net/home - Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://phptravels.net/themes/default/assets/font-icons/material-icons/material-icons.woff2
+[2021-06-08T12:03:05+0200] [INFO] https://phptravels.net/home - Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://phptravels.net/themes/default/Muli-Bold.woff
+[2021-06-08T12:03:05+0200] [SEVERE] https://phptravels.net/home 938:33 Uncaught SyntaxError: missing ) after argument list
+[2021-06-08T12:03:05+0200] [INFO] https://phptravels.net/home - Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://phptravels.net/themes/default/assets/font-icons/font-awesome/webfonts/fa-brands-400.woff2
+[2021-06-08T12:03:05+0200] [INFO] https://phptravels.net/home - Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://phptravels.net/themes/default/assets/font-icons/font-awesome/webfonts/fa-regular-400.woff2
+[2021-06-08T12:03:05+0200] [INFO] https://phptravels.net/themes/default/assets/js/plugins.js 31:551 "JQMIGRATE: Migrate is installed, version 1.4.1"
+[2021-06-08T12:03:05+0200] [SEVERE] https://phptravels.net/home 3418:5 Uncaught SyntaxError: Unexpected token ','
+[2021-06-08T12:03:05+0200] [SEVERE] https://phptravels.net/home 3524:8 Uncaught ReferenceError: fmt is not defined
+[2021-06-08T12:03:05+0200] [SEVERE] https://phptravels.net/home 3549:8 Uncaught ReferenceError: fmt is not defined
+[2021-06-08T12:03:05+0200] [SEVERE] https://phptravels.net/home 3574:8 Uncaught ReferenceError: fmt is not defined
+[2021-06-08T12:03:05+0200] [INFO] https://phptravels.net/themes/default/assets/js/jquery-2.2.4.min.js 3 Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://phptravels.net/themes/default/assets/font-icons/ionicons/fonts/ionicons.ttf?v=2.0.0
+[2021-06-08T12:03:05+0200] [INFO] https://phptravels.net/themes/default/assets/js/jquery-2.2.4.min.js 2 Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://phptravels.net/themes/default/assets/font-icons/elegant_font/fonts/ElegantIcons.woff
+[2021-06-08T12:03:05+0200] [WARNING] https://phptravels.net/home - [DOM] Found 3 elements with non-unique id #: (More info: https://goo.gl/9p2vKq) %o %o %o
+[2021-06-08T12:03:05+0200] [WARNING] https://phptravels.net/home - [DOM] Found 3 elements with non-unique id #DateTours: (More info: https://goo.gl/9p2vKq) %o %o %o
+[2021-06-08T12:03:05+0200] [WARNING] https://phptravels.net/home - [DOM] Found 3 elements with non-unique id #txtsearch: (More info: https://goo.gl/9p2vKq) %o %o %o
+[2021-06-08T12:03:06+0200] [INFO] https://phptravels.net/home 3314:8 "show"
+[2021-06-08T12:03:06+0200] [WARNING] https://phptravels.net/home - Failed to decode downloaded font: https://phptravels.net/themes/default/Muli-Bold.woff
+[2021-06-08T12:03:06+0200] [WARNING] https://phptravels.net/home - OTS parsing error: invalid sfntVersion: 1008821359
+[2021-06-08T12:03:06+0200] [INFO] https://phptravels.net/themes/default/assets/js/jquery-2.2.4.min.js 3 Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://phptravels.net/themes/default/assets/fonts/muli/Muli-Bold.woff
+[2021-06-08T12:03:13+0200] [SEVERE] https://phptravels.net/register 17:47 Uncaught TypeError: Cannot read property 'remove' of null
+[2021-06-08T12:03:13+0200] [WARNING] https://phptravels.net/register - Failed to decode downloaded font: https://phptravels.net/themes/default/Muli-Bold.woff
+[2021-06-08T12:03:13+0200] [WARNING] https://phptravels.net/register - OTS parsing error: invalid sfntVersion: 1008821359
+[2021-06-08T12:03:13+0200] [INFO] https://phptravels.net/themes/default/assets/js/plugins.js 31:551 "JQMIGRATE: Migrate is installed, version 1.4.1"
+[2021-06-08T12:03:13+0200] [SEVERE] javascript 0:1010 Uncaught ReferenceError: google is not defined
+[2021-06-08T12:03:13+0200] [SEVERE] https://phptravels.net/register 648:5 Uncaught SyntaxError: Unexpected token ','
+[2021-06-08T12:03:13+0200] [SEVERE] https://phptravels.net/register 754:8 Uncaught ReferenceError: fmt is not defined
+[2021-06-08T12:03:13+0200] [SEVERE] https://phptravels.net/register 779:8 Uncaught ReferenceError: fmt is not defined
+[2021-06-08T12:03:13+0200] [SEVERE] https://phptravels.net/register 804:8 Uncaught ReferenceError: fmt is not defined
+[2021-06-08T12:03:13+0200] [INFO] https://phptravels.net/themes/default/assets/js/custom-detail-map.js 83:12 "fff"
+[2021-06-08T12:03:13+0200] [SEVERE] https://phptravels.net/themes/default/assets/js/custom-detail-map.js 7:17 Uncaught ReferenceError: google is not defined
+[2021-06-08T12:03:13+0200] [FINE] https://phptravels.net/register - [DOM] Input elements should have autocomplete attributes (suggested: "new-password"): (More info: https://goo.gl/9p2vKq) %o
+[2021-06-08T12:03:13+0200] [FINE] https://phptravels.net/register - [DOM] Input elements should have autocomplete attributes (suggested: "new-password"): (More info: https://goo.gl/9p2vKq) %o
+[2021-06-08T12:03:19+0200] [INFO] https://phptravels.net/register 544:8 "show"
